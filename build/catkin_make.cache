@@ -1,0 +1,2 @@
+ackermann_vehicle/ackermann_vehicle:ackermann_vehicle/ackermann_vehicle_description:ackermann_vehicle/ackermann_vehicle_gazebo:ackermann_vehicle/ackermann_vehicle_navigation:donkey_car:joystick_drivers/joystick_example:map2gazebo:map_server:ros-donkeycar:ros-i2cpwmboard:teleop_twist_keyboard
+-DCATKIN_DEVEL_PREFIX=/home/jetson/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/catkin_ws/install -G Unix Makefiles
